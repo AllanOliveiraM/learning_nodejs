@@ -1,0 +1,9 @@
+{
+  "name": "learning_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AllanOliveiraM/learning_nodejs.git",
+  "author": "AllanOliveiraM <nallamo2016@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
