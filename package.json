@@ -5,5 +5,8 @@
   "repository": "git@github.com:AllanOliveiraM/learning_nodejs.git",
   "author": "AllanOliveiraM <nallamo2016@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
